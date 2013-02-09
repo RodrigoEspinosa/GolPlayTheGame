@@ -1,0 +1,1270 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fuc",
+				"function"
+			],
+			[
+				"shared",
+				"SharedObject	flash.net"
+			],
+			[
+				"text",
+				"textScore	var"
+			],
+			[
+				"tea",
+				"team1Points	var"
+			],
+			[
+				"force",
+				"forceY	var"
+			],
+			[
+				"sen",
+				"sendBallForce	function"
+			],
+			[
+				"team",
+				"team0Points	var"
+			],
+			[
+				"versus",
+				"versusNewPlayer"
+			],
+			[
+				"self",
+				"selfTeam	var"
+			],
+			[
+				"pla",
+				"playersInGame	var"
+			],
+			[
+				"all",
+				"allPlayers	var"
+			],
+			[
+				"te",
+				"team0NumPlayers	var"
+			],
+			[
+				"sel",
+				"selfNumber	var"
+			],
+			[
+				"check",
+				"checkTeams	function"
+			],
+			[
+				"ad",
+				"addGraphic"
+			],
+			[
+				"gae",
+				"gameID	var"
+			],
+			[
+				"onNetConne",
+				"onNetConnectionClosed"
+			],
+			[
+				"oPla",
+				"oPlayerTeam	var"
+			],
+			[
+				"Versus",
+				"VersusPlayer	entities"
+			],
+			[
+				"onNet",
+				"onNetGroupNeighborDisconnect	function"
+			],
+			[
+				"_",
+				"_dbID"
+			],
+			[
+				"post",
+				"posts"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"coll",
+				"collection	var"
+			],
+			[
+				"DB",
+				"DB_DRIVER	var"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"chec",
+				"checkTeams	function"
+			],
+			[
+				"Ver",
+				"VersusPlayer"
+			],
+			[
+				"auto",
+				"autoBalance	function"
+			],
+			[
+				"us",
+				"userID"
+			],
+			[
+				"_netS",
+				"_netStreamRecv	var"
+			],
+			[
+				"gr",
+				"groupspecWithAuthorizations"
+			],
+			[
+				"netStrea",
+				"netStreamSendClient	var"
+			],
+			[
+				"_net",
+				"_netStreamSend	var"
+			],
+			[
+				"_nets",
+				"_netStreamRecv	var"
+			],
+			[
+				"NET",
+				"NET_STATUS"
+			],
+			[
+				"create",
+				"createNewRoom	function"
+			],
+			[
+				"cre",
+				"createMoreRooms	function"
+			],
+			[
+				"edi",
+				"edit-profile"
+			],
+			[
+				"hande",
+				"handleHover	function"
+			],
+			[
+				"game",
+				"gameID	var"
+			],
+			[
+				"ga",
+				"gameID	var"
+			],
+			[
+				"Secu",
+				"SecurityError	flash.errors"
+			],
+			[
+				"REFRE",
+				"REFRESH_HEIGHT	var"
+			],
+			[
+				"REFR",
+				"REFRESH_WIDTH	var"
+			],
+			[
+				"player",
+				"onlinePlayer	var"
+			],
+			[
+				"pop",
+				"popUpHeight	var"
+			],
+			[
+				"grapi",
+				"graphicList	var"
+			],
+			[
+				"Graphc",
+				"Graphiclist"
+			],
+			[
+				"back",
+				"backgroundColor	var"
+			],
+			[
+				"net",
+				"NetGroup"
+			],
+			[
+				"_n",
+				"_netGroup	var"
+			],
+			[
+				"CONTAS",
+				"CONTAINER_TEXT_SPACING	var"
+			],
+			[
+				"CONTA",
+				"CONTAINER_WIDTH	var"
+			],
+			[
+				"link",
+				"linkList	var"
+			],
+			[
+				"l",
+				"linkList	var"
+			],
+			[
+				"Conta",
+				"CONTAINER_TEXT_STARTING_Y	var"
+			],
+			[
+				"font",
+				"fontOptions	var"
+			],
+			[
+				"CONT",
+				"CONTAINER_TEXT_STARTING_X1	var"
+			],
+			[
+				"CON",
+				"CONTAINER_TEXT_COLOR	var"
+			],
+			[
+				"nul",
+				"Null	class"
+			],
+			[
+				"seq",
+				"sequenceNumber	var"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"Cirr",
+				"CirrusCodeNameKey	var"
+			],
+			[
+				"veloci",
+				"velocity	var"
+			],
+			[
+				"goal",
+				"goalCollide	var"
+			],
+			[
+				"colli",
+				"collisionPoints	var"
+			],
+			[
+				"DEFAU",
+				"DEFAULT_BACKGROUND	var"
+			],
+			[
+				"DEFA",
+				"DEFAULT_Y	var"
+			],
+			[
+				"WA",
+				"WALL_THICKNESS	var"
+			],
+			[
+				"WALL_WI",
+				"WALL_WIDTH_Y	var"
+			],
+			[
+				"WALL_",
+				"WALL_WIDTH_Y	var"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"ac",
+				"accelerationY	var"
+			],
+			[
+				"ace",
+				"accelerationX	var"
+			],
+			[
+				"acc",
+				"accelerationY	var"
+			],
+			[
+				"a",
+				"accelerationX	var"
+			],
+			[
+				"ve",
+				"velocityX	var"
+			],
+			[
+				"velocity",
+				"velocityY	var"
+			],
+			[
+				"acce",
+				"accelerationY"
+			],
+			[
+				"for",
+				"forceY	var"
+			],
+			[
+				"forc",
+				"forceX	var"
+			],
+			[
+				"v",
+				"velocityX	var"
+			],
+			[
+				"MAX_VE",
+				"MAX_VELOCITY	var"
+			],
+			[
+				"velo",
+				"velocityX	var"
+			],
+			[
+				"veloc",
+				"velocityX	var"
+			],
+			[
+				"acel",
+				"accelerationY	var"
+			],
+			[
+				"acele",
+				"accelerationX	var"
+			],
+			[
+				"vel",
+				"velocityY	var"
+			],
+			[
+				"smoke",
+				"smokeEmitter	var"
+			],
+			[
+				"getName",
+				"getNameQuery"
+			],
+			[
+				"play",
+				"playerObject"
+			],
+			[
+				"onp",
+				"onPressDown"
+			],
+			[
+				"KEY",
+				"Keyboard"
+			],
+			[
+				"Key",
+				"Keyboard"
+			],
+			[
+				"Ke",
+				"KeyboardEvent"
+			],
+			[
+				"Event",
+				"KeyboardEvent"
+			],
+			[
+				"sub",
+				"subDir"
+			],
+			[
+				"repla",
+				"str_replace"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"sh",
+				"shuffle"
+			],
+			[
+				"he",
+				"Verdana, Geneva, Arial, Helvetica, sans-serif"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"f",
+				"font-variant"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"big",
+				"bigHref"
+			],
+			[
+				"fon",
+				"font-variant"
+			],
+			[
+				"se",
+				"sequentialContactFade"
+			],
+			[
+				"Tr",
+				"\"Trebuchet MS\""
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"font-",
+				"font-variant"
+			],
+			[
+				"ul",
+				"ul"
+			],
+			[
+				"strre",
+				"str_replace"
+			],
+			[
+				"heg",
+				"height"
+			],
+			[
+				"blue",
+				"blockquote	<blockquote>"
+			],
+			[
+				"dir",
+				"is_dir"
+			],
+			[
+				"sc",
+				"scandir"
+			],
+			[
+				"input",
+				"input_placeholder"
+			],
+			[
+				"Obje",
+				"ObjectView"
+			],
+			[
+				"apped",
+				"appendItem"
+			],
+			[
+				"in",
+				"initialize"
+			],
+			[
+				"ob",
+				"objeto"
+			],
+			[
+				"Ob",
+				"ObjectModel"
+			],
+			[
+				"Obj",
+				"ObjectView"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "package  {\n\n    import flash.display.Sprite;\n    import flash.events.TextEvent;\n    import flash.events.MouseEvent;\n    import flash.events.NetStatusEvent;\n    import fl.events.ComponentEvent;\n    import fl.controls.Label;\n    import fl.controls.Button;\n    import fl.controls.TextInput;\n    import fl.controls.TextArea;\n    import flash.text.TextFieldAutoSize;\n    import flash.net.*;\n\n    public class NetGroupPostExample extends Sprite{\n\n        private var connectButton:Button;\n        private var disconnectButton:Button;\n        private var groupNameText:TextInput;\n        private var userNameText:TextInput;\n        private var chatText:TextInput;\n        private var statusLog:TextArea;\n        private var groupLabel:Label;\n        private var userLabel:Label;\n\n        private var netConnection:NetConnection = null;\n        private var netGroup:NetGroup = null;\n        private var sequenceNumber:uint = 0;\n        private var connected:Boolean = false;\n        private var joinedGroup:Boolean = false;\n\n        private const SERVER:String = \"rtmfp://fms.example.com/someapp\";\n\n        public function NetGroupPostExample() {\n            DoUI();\n        }\n\n        // Writes messages to the TextArea.\n        private function StatusMessage(msg:Object):void{\n            statusLog.text += msg;\n            statusLog.verticalScrollPosition = statusLog.textHeight;\n            statusLog.validateNow();\n        }\n\n        // Handles all NetStatusEvents for the NetConnection and the NetGroup.\n        // This code includes cases it doesn't handle so you can see the cases\n        // and their info objects for learning purposes.\n        private function NetStatusHandler(e:NetStatusEvent):void{\n            StatusMessage(e.info.code + \"\\n\");\n            switch(e.info.code){\n                case \"NetConnection.Connect.Success\":\n                    connectButton.enabled = false;\n                    disconnectButton.enabled = true;\n                    OnConnect();\n                    break;\n\n                case \"NetConnection.Connect.Closed\":\n                    OnDisconnect();\n                    break;\n\n                case \"NetGroup.Connect.Success\": // e.info.group\n                    OnNetGroupConnect();\n                    break;\n\n                case \"NetGroup.Connect.Rejected\": // e.info.group\n                case \"NetGroup.Connect.Failed\": // e.info.group\n                    break;\n\n                case \"NetGroup.Posting.Notify\": // e.info.message, e.info.messageID\n                    OnPosting(e.info.message);\n                    break;\n\n                case \"NetStream.MulticastStream.Reset\":\n                case \"NetStream.Buffer.Full\":\n                    break;\n\n                case \"NetGroup.SendTo.Notify\": // e.info.message, e.info.from, e.info.fromLocal\n                case \"NetGroup.LocalCoverage.Notify\": //\n                case \"NetGroup.Neighbor.Connect\": // e.info.neighbor\n                case \"NetGroup.Neighbor.Disconnect\": // e.info.neighbor\n                case \"NetGroup.MulticastStream.PublishNotify\": // e.info.name\n                case \"NetGroup.MulticastStream.UnpublishNotify\": // e.info.name\n                case \"NetGroup.Replication.Fetch.SendNotify\": // e.info.index\n                case \"NetGroup.Replication.Fetch.Failed\": // e.info.index\n                case \"NetGroup.Replication.Fetch.Result\": // e.info.index, e.info.object\n                case \"NetGroup.Replication.Request\": // e.info.index, e.info.requestID\n                default:\n                    break;\n                }\n            }\n        // Creates a NetConnection to Flash Media Server if the app isn't already connected\n        // and if there's a group name in the TextInput field.\n        private function DoConnect(e:MouseEvent):void{\n            if(!connected && (groupNameText.length > 0)){\n                StatusMessage(\"Connecting to \\\"\" + SERVER + \"\\\" ...\\n\");\n                netConnection = new NetConnection();\n                netConnection.addEventListener(NetStatusEvent.NET_STATUS, NetStatusHandler);\n                // To connect to Flash Media Server, pass the server name.\n                netConnection.connect(SERVER);\n            }\n            else\n            {\n                StatusMessage(\"Enter a group name\");\n            }\n        }\n\n        // Called in the \"NetConnection.Connect.Success\" case in the NetStatusEvent handler.\n        private function OnConnect():void{\n\n            StatusMessage(\"Connected\\n\");\n            connected = true;\n\n            // Create a GroupSpecifier object to pass to the NetGroup constructor.\n            // The GroupSpecifier determines the properties of the group\n            var groupSpecifier:GroupSpecifier;\n            groupSpecifier = new GroupSpecifier(\"aslrexample/\" + groupNameText.text);\n            groupSpecifier.postingEnabled = true;\n            groupSpecifier.serverChannelEnabled = true;\n\n            netGroup = new NetGroup(netConnection, groupSpecifier.groupspecWithAuthorizations());\n            netGroup.addEventListener(NetStatusEvent.NET_STATUS, NetStatusHandler);\n\n            StatusMessage(\"Join \\\"\" + groupSpecifier.groupspecWithAuthorizations() + \"\\\"\\n\");\n\n        }\n\n        private function OnNetGroupConnect():void{\n            joinedGroup = true;\n        }\n\n        private function DoDisconnect(e:MouseEvent):void{\n            if(netConnection){\n                netConnection.close();\n            }\n        }\n\n        private function OnDisconnect():void{\n            StatusMessage(\"Disconnected\\n\");\n            netConnection = null;\n            netGroup = null;\n            connected = false;\n            joinedGroup = false;\n            connectButton.enabled = true;\n            disconnectButton.enabled = false;\n        }\n\n        private function ClearChatText():void{\n            chatText.text = \"\";\n        }\n\n        // Called when you the chatText field has focus and you press Enter.\n        private function DoPost(e:ComponentEvent):void{\n            if(joinedGroup){\n                var message:Object = new Object;\n                message.user = userNameText.text;\n                message.text = chatText.text;\n                message.sequence = sequenceNumber++;\n                message.sender = netConnection.nearID;\n\n                netGroup.post(message);\n                StatusMessage(\"==> \" + chatText.text + \"\\n\");\n            } else {\n                StatusMessage(\"Click Connect before sending a chat message\");\n            }\n            ClearChatText();\n        }\n\n        private function OnPosting(message:Object):void{\n            StatusMessage(\"<\" + message.user + \"> \" + message.text + \"\\n\");\n        }\n\n        private function DoUI():void {\n\n            groupLabel = new Label();\n            groupLabel.move(20, 10);\n            groupLabel.autoSize = TextFieldAutoSize.LEFT\n            groupLabel.text = \"Group name:\"\n            addChild(groupLabel);\n\n            groupNameText = new TextInput();\n            groupNameText.move(90, 10);\n            groupNameText.text = \"channel\" + (int(Math.random() * 899) + 101);\n            addChild(groupNameText);\n\n            connectButton = new Button();\n            connectButton.addEventListener(MouseEvent.CLICK, DoConnect);\n            connectButton.move(205, 10);\n            connectButton.label = \"Connect\";\n            addChild(connectButton);\n\n            disconnectButton = new Button();\n            disconnectButton.addEventListener(MouseEvent.CLICK, DoDisconnect);\n            disconnectButton.move(310, 10);\n            disconnectButton.label = \"Disconnect\";\n            disconnectButton.enabled = false;\n            addChild(disconnectButton);\n\n            statusLog = new TextArea();\n            statusLog.move(30, 38);\n            statusLog.width = 360;\n            statusLog.height = 215;\n            statusLog.editable = false;\n            addChild(statusLog);\n\n            userLabel = new Label();\n            userLabel.move(20, 270);\n            userLabel.autoSize = TextFieldAutoSize.LEFT\n            userLabel.text = \"User name:\"\n            addChild(userLabel);\n\n            userNameText = new TextInput();\n            userNameText.move(80, 270);\n            userNameText.text = \"user \" + int(Math.random() * 65536);\n            addChild(userNameText);\n\n            chatText = new TextInput();\n            chatText.addEventListener(ComponentEvent.ENTER, DoPost);\n            chatText.move(185, 270);\n            chatText.maxChars = 255;\n            chatText.width = 215;\n            addChild(chatText);\n\n        }\n\n        public function onPlayStatus(info:Object):void {}\n        public function onMetaData(info:Object):void {}\n        public function onCuePoint(info:Object):void {}\n        public function onTextData(info:Object):void {}\n\n    }\n\n}\n",
+			"settings":
+			{
+				"buffer_size": 9006,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<s:Application xmlns:fx=\"http://ns.adobe.com/mxml/2009\" \n         xmlns:s=\"library://ns.adobe.com/flex/spark\" \n         xmlns:mx=\"library://ns.adobe.com/flex/mx\" \n         minWidth=\"955\" minHeight=\"600\"\n         applicationComplete=\"connectToStratus()\">\n  \n  <fx:Script>\n    <![CDATA[\nprivate const STRATUS_KEY:String = \"YOUR-DEVELOPER-KEY\";\nprivate const STRATUS_SERVER:String = \"rtmfp://stratus.adobe.com\";\n[Bindable] private var myID:String = \"\";\n\nprivate var netCon:NetConnection;\nprivate var sendStream:NetStream;\nprivate var receiveStream:NetStream;\n\n//Connect to stratus and start listening for status changes.\nprivate function connectToStratus():void\n{\n  netCon = new NetConnection();\n  netCon.addEventListener(NetStatusEvent.NET_STATUS, \n    netStatusHandler);\n  netCon.connect(STRATUS_SERVER + \"/\" + STRATUS_KEY);\n}\n\n//The status has been changed and we either create a\n//sendStream or reset the receiveStream.\nprivate function netStatusHandler(e:NetStatusEvent):void\n{\n  switch (e.info.code)\n  {\n    case \"NetConnection.Connect.Success\":\n      myID = netCon.nearID;\n      \n      sendStream = new NetStream(netCon, \n        NetStream.DIRECT_CONNECTIONS);\n      sendStream.addEventListener(NetStatusEvent.NET_STATUS, \n        sendStatusHandler);\n      sendStream.publish(\"chat\");\n      break;\n    case \"NetStream.Connect.Closed\":\n      receiveStream = null;\n      break;\n  }\n}\n\n//The status of the sendStream has changed.\n//We can now connect to the farID, which is the ID of the client\n//that is connecting to our sendStream.\nprivate function sendStatusHandler(e:NetStatusEvent):void\n{\n  if (e.info.code == \"NetStream.Play.Start\")\n  {\n    if (receiveStream == null) \n    {\n      farIDTextInput.text = e.target.peerStreams[0].farID;\n      peerConnect();\n    }\n  }\n}\n\n//We create a receiveStream and connect it to the other client.\nprivate function peerConnect():void \n{\n  receiveStream = new NetStream(netCon, farIDTextInput.text);\n  receiveStream.client = this;\n  receiveStream.addEventListener(NetStatusEvent.NET_STATUS, \n    receiveStatusHandler);\n  receiveStream.play(\"chat\");\n}\n\n//The status of the receiveStream has changed.\nprivate function receiveStatusHandler(e:NetStatusEvent):void\n{\n  if (e.info.code == \"NetStream.Play.Start\")\n    trace(\"connection succes!\");\n}\n\n//Send a text message, call the messageReceived function.\nprivate function sendMessage():void\n{\n  if (sendStream == null) return;\n  \n  logTextArea.appendText(messageTextInput.text + \"\\n\");\n  sendStream.send(\"messageReceived\", messageTextInput.text);\n  messageTextInput.text = \"\";\n}\n\n//Send an image, call the imageReceived function.\nprivate function sendImage():void\n{\n  if (sendStream == null) return;\n  \n  var bd:BitmapData = new BitmapData(200, 200, false, \n    Math.random() * 0x777777);\n  sendStream.send(\"imageReceived\", \n    bd.getPixels(new Rectangle(0, 0, 200, 200)));\n  imgImage.source = new Bitmap(bd);\n}\n\n//We received some text, append it to our chat log.\npublic function messageReceived(e:String):void\n{\n  logTextArea.appendText(\"-- \" + e + \"\\n\");\n}\n\n//We received an image, make it visible in the UI.\npublic function imageReceived(e:Object):void\n{\n  var bd:BitmapData = new BitmapData(200, 200);\n  bd.setPixels(new Rectangle(0, 0, 200, 200), e as ByteArray);\n  \n  var bmp:Bitmap = new Bitmap(bd);\n  imgImage.source = bmp;\n}\n    ]]>\n  </fx:Script>\n  \n  <fx:Declarations>\n    <!-- Place non-visual elements \n    (e.g., services, value objects) here -->\n  </fx:Declarations>\n  \n  <s:layout>\n    <s:VerticalLayout/>\n  </s:layout>\n  \n  <s:TextInput editable=\"false\" text=\"{myID}\"/>\n  <s:TextInput id=\"farIDTextInput\" enter=\"peerConnect()\"/>\n  <s:TextArea height=\"200\" id=\"logTextArea\"/>\n  <s:TextInput id=\"messageTextInput\" enter=\"{sendMessage()}\"/>\n  <s:Button label=\"Generate image\" click=\"{sendImage()}\"/>\n  <mx:Image id=\"imgImage\" width=\"200\" height=\"200\"/>\n</s:Application>",
+			"settings":
+			{
+				"buffer_size": 3911,
+				"line_ending": "Windows",
+				"name": "<?xml version=\"1.0\" encoding=\"utf-8\"?>"
+			}
+		},
+		{
+			"file": "/C/Motion-Twin/Haxe/lib/HaxePunk/1,7,1/com/haxepunk/Preloader.hx",
+			"settings":
+			{
+				"buffer_size": 1180,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/user/AppData/Local/Temp/Temp1_04-TextFields.zip/Source/TextFields.hx",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/resources/Lightbox.hx",
+			"settings":
+			{
+				"buffer_size": 2301,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "build.nmml",
+			"settings":
+			{
+				"buffer_size": 1042,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/user/Downloads/Splash.hx",
+			"settings":
+			{
+				"buffer_size": 5796,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/Server.hx",
+			"settings":
+			{
+				"buffer_size": 7570,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/worlds/Lobby.hx",
+			"settings":
+			{
+				"buffer_size": 8289,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "build.bat",
+			"settings":
+			{
+				"buffer_size": 408,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/HaXe NME.sublime-build",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"haxe",
+				"Set Syntax: Haxe2"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Snippet: lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"set syntax: pa",
+				"Set Syntax: Pascal"
+			],
+			[
+				"pasca",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Add Repository"
+			],
+			[
+				"ajax",
+				"Snippet: Google AJAX Libraries: SWFObject"
+			],
+			[
+				"jquer",
+				"Snippet: Google AJAX Libraries: jQuery UI"
+			],
+			[
+				"script",
+				"Snippet: Google AJAX Libraries: Scriptaculous"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"set type",
+				"Snippet: DOCTYPE HTML"
+			],
+			[
+				"pascal",
+				"Snippet: Google AJAX Libraries: Scriptaculous"
+			],
+			[
+				"pytho",
+				"Set Syntax: Regular Expressions (Python)"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"paga",
+				"Package Control: Add Repository"
+			],
+			[
+				"control",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pache",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/Desktop/index.html",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/Main.hx",
+		"/C/Motion-Twin/Haxe/lib/nme/3,4,4/nme/Loader.hx",
+		"/C/Motion-Twin/Haxe/lib/HaxePunk/1,7,0/com/haxepunk/Preloader.hx",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/worlds/GameWorld.hx",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/resources/GolPlayPreloader.hx",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/worlds/Lobby.hx",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/Server.hx",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/resources/Preloader.hx",
+		"/C/Motion-Twin/Haxe/lib/HaxePunk/.current",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/mongodb.php",
+		"/C/Motion-Twin/Haxe/lib/nme/3,4,4/samples/02-Text/Sample.nmml",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/entities/Goal.hx",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/worlds/Versus.hx",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/entities/Player.hx",
+		"/C/Motion-Twin/Haxe/lib/nme/3,4,4/samples/04-Text/Sample.hx",
+		"/C/Motion-Twin/Haxe/lib/nme/3,4,4/samples/02-Text/Sample.hx",
+		"/C/Motion-Twin/Haxe/lib/nme/3,4,4/samples/03-Bitmaps/Sample.hx",
+		"/C/Motion-Twin/Haxe/lib/nme/3,4,4/samples/01-Simple/compile-swf.hxml",
+		"/C/Motion-Twin/Haxe/lib/nme/3,4,4/changes.md",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/entities/Ball.hx",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/entities/OnlinePlayer.hx",
+		"/C/Users/user/AppData/Local/Temp/Temp1_FlashPunkSplash.zip/splash/Splash.as",
+		"/C/Motion-Twin/Haxe/lib/HaxePunk/1,7,2/com/haxepunk/Preloader.hx",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/entities/VersusPlayer.hx",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/build.bat",
+		"/C/xampp/htdocs/golplay/.htaccess",
+		"/C/xampp/htdocs/golplay/index.php",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/worlds/Profile.hx",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/entities/Block.hx",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/build.nmml",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/entities/Link.hx",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/entities/Background.hx",
+		"/C/Users/user/AppData/Local/Temp/Temp1_cirrus_app_assets_v5.zip/cirrus_app_article_assets_update5/IdManagerError.as",
+		"/C/Users/user/AppData/Local/Temp/Temp1_cirrus_app_assets_v5.zip/cirrus_app_article_assets_update5/IdManagerEvent.as",
+		"/C/Users/user/AppData/Local/Temp/Temp1_cirrus_app_assets_v5.zip/cirrus_app_article_assets_update5/AbstractIdManager.as",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/resources/Button.hx",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/bin/flash/bin/crossdomain.xml",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/bin/flash/bin/MyApplication.swf",
+		"/C/xampp/php/php.ini",
+		"/C/Motion-Twin/Haxe/lib/mongodb/0,8,0/org/mongodb/Mongo.hx",
+		"/C/Users/user/AppData/Local/Temp/7zOC747.tmp/README.md",
+		"/C/Motion-Twin/Haxe/lib/HaxePunk/1,7,1/com/haxepunk/HXP.hx",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/Herramientas para GolPlay - Juego/UnionPong/ActionScript/PongClient.as",
+		"/C/Motion-Twin/Haxe/lib/HaxePunk/1,7,1/com/haxepunk/Engine.hx",
+		"/C/Users/user/AppData/Roaming/Sublime Text 2/Packages/FTPSync/ftpsync.sublime-settings",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/resources/NetConnection.hx",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/resources/Lightbox.hx",
+		"/C/Users/user/AppData/Local/Temp/Temp1_embed-image.zip/Main.hx",
+		"/C/Motion-Twin/Haxe/lib/HaxePunk/1,7,1/com/haxepunk/graphics/Text.hx",
+		"/C/Motion-Twin/Haxe/lib/HaxePunk/1,7,1/com/haxepunk/Entity.hx",
+		"/C/Motion-Twin/Haxe/lib/HaxePunk/1,7,1/com/haxepunk/World.hx",
+		"/C/mongodb/README",
+		"/C/Users/user/AppData/Roaming/Sublime Text 2/Packages/User/HaXe NME.sublime-build",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/Herramientas para GolPlay - Juego/HaxePunk-master/examples/src/masks/GameWorld.hx",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/ServerApi.hx",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/server.bat",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/Client.hx",
+		"/C/xampp/htdocs/haxeChat/ServerApi.hx",
+		"/C/Motion-Twin/Haxe/lib/HaxePunk/1,6,7/com/haxepunk/masks/Masklist.hx",
+		"/C/Motion-Twin/Haxe/lib/HaxePunk/1,6,7/com/haxepunk/masks/Circle.hx",
+		"/C/Motion-Twin/Haxe/lib/HaxePunk/1,6,7/com/haxepunk/Entity.hx",
+		"/C/Motion-Twin/Haxe/lib/HaxePunk/1,6,7/com/haxepunk/masks/Hitbox.hx",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/assets/gfx/arco_01.png",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/src/entities/Field.hx",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/assets/gfx/README",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/assets/gfx/preloader/haxepunk.png",
+		"/C/Users/user/Dropbox/CrabLabs/GOLPLAY/JUEGO/.build",
+		"/C/MyProject/src/worlds/GameWorld.hx",
+		"/C/MyProject/src/entities/Player-Tutorial.hx",
+		"/C/MyProject/src/entities/Field.hx",
+		"/C/MyProject/src/entities/Goal.hx",
+		"/C/MyProject/src/entities/Wall.hx",
+		"/C/MyProject/src/entities/Ball.hx",
+		"/C/MyProject/src/entities/Player.hx",
+		"/C/MyProject/src/Main.hx",
+		"/C/MyProject/build.nmml",
+		"/C/Users/user/Dropbox/CrabLabs/Herramientas para GolPlay - Juego/HaxePunk-master/examples/src/platformer/entities/Physics.hx",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-2/rewrite.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-2/vestidos.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-2/marcas.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-2/noticias.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-2/lista_noticias.php",
+		"/C/Users/user/Dropbox/CrabLabs/Herramientas para GolPlay - Juego/HaxePunk-master/examples/src/effects/GameWorld.hx",
+		"/C/Users/user/AppData/Local/Temp/Temp1_HaxePunk-master.zip/HaxePunk-master/examples/src/platformer/entities/Player.hx",
+		"/C/Users/user/AppData/Local/Temp/Temp1_HaxePunk-master.zip/HaxePunk-master/examples/src/platformer/entities/Physics.hx",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-2/listado-vestidos.php",
+		"/C/Motion-Twin/Haxe/lib/HaxePunk/1,6,7/com/haxepunk/Preloader.hx",
+		"/C/Users/user/Desktop/examples/src/Main.hx",
+		"/C/Users/user/AppData/Local/Temp/Temp1_HaxePunk-master.zip/HaxePunk-master/examples/src/masks/GameWorld.hx",
+		"/C/Users/user/Desktop/HaxePunk-master/examples/src/effects/GameWorld.hx",
+		"/C/Motion-Twin/Haxe/lib/HaxePunk/1,6,7/com/haxepunk/Tween.hx",
+		"/C/Motion-Twin/Haxe/lib/HaxePunk/1,6,7/com/haxepunk/Tweener.hx",
+		"/C/Motion-Twin/Haxe/lib/HaxePunk/1,6,7/com/haxepunk/Engine.hx",
+		"/C/MyProject/src/entities/Smoke.hx",
+		"/C/Users/user/Desktop/HaxePunk-master/examples/src/DemoWorld.hx",
+		"/C/Users/user/Desktop/HaxePunk-master/examples/assets/gfx/README",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-2/favoritos.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-2/solicitar-cita.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-2/trabaje.php",
+		"/C/MyProject/build.bat",
+		"/C/Users/user/Desktop/hax/Testing/src/Player.hx",
+		"/C/Users/user/Desktop/hax/Testing/src/KeyboardHandler.hx",
+		"/C/Users/user/Desktop/hax/Testing/src/Main.hx",
+		"/C/Users/user/Desktop/hax/Testing/src/Ball.hx",
+		"/C/MyProject/src/entities/Block.hx",
+		"/C/MyProject/src/worlds/Block.hx",
+		"/C/MyProject/assets/sfx/README",
+		"/C/MyProject/assets/music/README",
+		"/C/MyProject/assets/gfx/README",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-2/detalle-vestido.js",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-2/contacto.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-2/detalle-vestido.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-4/firmas.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-4/rewrite.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-4/vestidos.php",
+		"/C/Users/user/Desktop/.htaccess",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-4/blog_listado.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-4/detalle-vestido.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-4/blog_categorias.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-4/noticias.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-4/blog.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-4/marcas.php",
+		"/C/Users/user/Desktop/hax/Testing/src/MouseHandler.hx",
+		"/C/Users/user/Desktop/UnionPong/ActionScript/KeyboardController.as",
+		"/C/Users/user/Desktop/UnionPong/ActionScript/Settings.as",
+		"/C/Users/user/Documents/fing/TAREA 2 PROG 2012 - Sodoku Parte 2/tarea21.pas"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/>\n",
+			"extension",
+			"}\n",
+			"DoPost",
+			"\"",
+			");\n",
+			"$this->createTable( Install::TABLE_FICHEROS, array(\n		// 	));\n		// $this->createTable( Install::TABLE_USUARIOS, array(\n		// 	));\n		// $this->createTable( Install::TABLE_PAGINAS, array(\n		// 	));\n		// $this->createTable( Install::TABLE_SEO, array(\n		// 	));",
+			"POST",
+			"\"",
+			"Delete",
+			"\"password\"",
+			"|",
+			"\")",
+			"style",
+			";",
+			"array",
+			"isset(",
+			"grid_6",
+			"user",
+			";",
+			"$user): ?>\n                    <tr class=\"odd gradeX\">\n                        <td><?=$user['id']?></td>\n                        <td><?=$user['Tipo']?></td>\n                        <td><?=$user['Titulo']?></td>\n                        <td><?=$user['Descripcion']?></td>\n                        <td><?=$user['Enlace']?></td>\n                        <td><?=$user['Imagen']?></td>\n                        <td><?php\n                        switch($user['Activo']){\n                            case 0: echo \"No\"; break;",
+			"$user): ?>\n                    <tr class=\"odd gradeX\">\n                        <td><?=$user['id']?></td>\n                        <td><?=$user['Tipo']?></td>\n                        <td><?=$user['Titulo']?></td>\n                        <td><?=$user['Descripcion']?></td>\n                        <td><?=$user['Enlace']?></td>\n                        <td><?=$user['Imagen']?></td>\n                        <td><?php\n                        switch($user['Activo']){",
+			"th",
+			"');",
+			"background",
+			"                        <",
+			"();",
+			"get",
+			"curl",
+			", ''\";",
+			"th",
+			"li",
+			"step",
+			"tpl",
+			"255",
+			"dialog",
+			"Marker",
+			"i"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"REQUEST",
+			"'",
+			"passwordColumn",
+			"set",
+			"td",
+			"span",
+			"step2",
+			"0",
+			"z"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 9006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ActionScript/ActionScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 3911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1780,
+								1780
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?xml version=\"1.0\" encoding=\"utf-8\"?>",
+							"syntax": "Packages/ActionScript/ActionScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Motion-Twin/Haxe/lib/HaxePunk/1,7,1/com/haxepunk/Preloader.hx",
+					"settings":
+					{
+						"buffer_size": 1180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								656,
+								656
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 105.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/user/AppData/Local/Temp/Temp1_04-TextFields.zip/Source/TextFields.hx",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 371.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/resources/Lightbox.hx",
+					"settings":
+					{
+						"buffer_size": 2301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1876,
+								1876
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1042.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "build.nmml",
+					"settings":
+					{
+						"buffer_size": 1042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								426,
+								426
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/NMML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/user/Downloads/Splash.hx",
+					"settings":
+					{
+						"buffer_size": 5796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								759,
+								759
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/Server.hx",
+					"settings":
+					{
+						"buffer_size": 7570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								268,
+								268
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/worlds/Lobby.hx",
+					"settings":
+					{
+						"buffer_size": 8289,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3305,
+								3305
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1014.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "build.bat",
+					"settings":
+					{
+						"buffer_size": 408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Batch File/Batch File.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 151.0
+	},
+	"output.haxe":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"acti",
+				"/C/xampp/htdocs/gym_admin/actividades.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true
+}
